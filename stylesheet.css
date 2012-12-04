@@ -12,15 +12,28 @@ width: 500px;
 height: 00px;
 margin: 100px 50px;
 padding: 50px;
-font-family:  Helvetica, Vendana, Ariel;
-}
+   color: #FFF;
+     font-family: futura-pt;
+
+
+ }
 
 .title {
-   color: #FFF;
-   font-size: 42px;
+      overflow: hidden;
+   width: 640px;
+   height: 227px;
+   line-height: 1.0;
+   font-size: 42pt;
+   color: #cccccc;
+   font-weight: normal;
 }
 
 p {
-   color: #FFF;
+    width: 567px;
+  height: 159px;
    font-size: 24px;
+  line-height: 1.0;
+  font-size: 18pt;
 }
+
+

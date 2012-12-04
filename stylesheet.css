@@ -19,14 +19,14 @@ padding: 50px;
 
 .title {
       overflow: hidden;
-   width: 640px;
+   width: 540px;
    height: 227px;
    line-height: 1.0;
    font-size: 36pt;
 }
 
 p {
-    width: 567px;
+    width: 540px;
   height: 159px;
    font-size: 24px;
   line-height: 1.0;

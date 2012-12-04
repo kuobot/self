@@ -12,8 +12,8 @@ width: 500px;
 height: 00px;
 margin: 100px 50px;
 padding: 50px;
-   color: #FFF;
-     font-family: futura-pt;
+   color: #cccccc;
+     font-family: museo-sans, futura-pt, helvetica;
 
 
  }
@@ -24,7 +24,6 @@ padding: 50px;
    height: 227px;
    line-height: 1.0;
    font-size: 42pt;
-   color: #cccccc;
    font-weight: normal;
 }
 

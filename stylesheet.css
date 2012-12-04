@@ -1,5 +1,8 @@
 
- body {background-image:url("joann.jpg");}
+ body {
+   background-image:url("joann.jpg");
+   background-color: #000;
+}
 
 
 

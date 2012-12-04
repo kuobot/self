@@ -2,6 +2,7 @@
  body {
    background-image:url("joann.jpg");
    background-color: #000;
+   background-repeat: none;
 }
 
 

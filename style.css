@@ -1,0 +1,86 @@
+html {
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffffff;
+}
+body {
+  margin: 0;
+  padding: 0;
+  undefined
+}
+/* This makes absolutely positioned elements like p, h1,
+     and some bootstrap elements placed properly. */
+ body>p, body>h1, body>h2, body>h3, body>h4, body>h5, body>h6 {
+  margin-top: 0 !important;
+}
+.container-fluid .table tbody tr td .heading.heading-1 {
+  margin: 0px 0px 10px 0px;
+}
+.container-fluid .table tbody tr td.td-1 {
+  padding: 20px 8px 8px 8px;
+}
+.container-fluid .table tbody tr td.td-2 {
+  background: #f9f9f9;
+}
+.navbar .navbar-inner .nav .easel-linkable a.a-1 {
+  text-shadow: 0px 1px 0px #ffffff;
+}
+.navbar .navbar-inner .nav li a.a-2 {
+  text-shadow: 0px 1px 0px #ffffff;
+}
+.navbar .navbar-inner .nav li a.a-3 {
+  text-shadow: 0px 1px 0px #ffffff;
+}
+.navbar {
+  width: 1150px;
+  height: 42px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.navbar .navbar-inner {
+  -moz-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.0627451);
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.0627451);
+  -o-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.0627451);
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.0627451);
+  border-radius: 0px;
+}
+.navbar .navbar-inner .brand {
+  text-shadow: 0px 1px 0px #ffffff;
+  font-weight: bold;
+  font-size: 20pt;
+}
+.container-fluid {
+  margin-top: 40px;
+  background: rgba(43, 43, 43, 0.17);
+}
+.container-fluid .table {
+  margin: 0px;
+}
+input {
+  padding: 4px 6px 4px 6px;
+  -moz-box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.0745098);
+  -webkit-box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.0745098);
+  -o-box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.0745098);
+  box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.0745098);
+  border-radius: 3px;
+  width: 285.8148145675659px;
+  height: 16.777777671813965px;
+  position: absolute;
+  top: 7px;
+  left: 807px;
+}
+.btn {
+  padding: 4px 14px 4px 14px;
+  -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.0470588), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.2);
+  -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.0470588), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.2);
+  -o-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.0470588), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.2);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.0470588), inset 0px 1px 0px 0px rgba(255, 255, 255, 0.2);
+  text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.74902);
+  border: 1px solid rgba(0, 0, 0, 0.14902);
+  width: 72px;
+  height: 28px;
+  position: absolute;
+  top: 7px;
+  left: 1036px;
+}
